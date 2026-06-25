@@ -142,16 +142,17 @@ It simulates sales transactions from a Trade Marketing operation, including prod
 Trade Marketing Intelligence Dashboard
 │
 ├── Dashboard
-│   └── Dashboard.pbix
+│   └── Dashboard.pbix          # Power BI report
 │
-├── Data
+├── Data                        # Source dataset
 │
-├── Images
+├── Images                      # Dashboard screenshots and banner
 │   ├── dashboard-banner.png
 │   ├── Executive_Overview.png
 │   └── Trade_Marketing_Insights.png
 │
-└── README.md
+└── README.md                   # Project documentation
+
 
 ---
 
