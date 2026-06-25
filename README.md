@@ -119,12 +119,15 @@ The dashboard includes the following business metrics:
 
 ---
 
-## 🛠 Technologies Used
+## 🛠️ Technologies Used
 
-* Microsoft Power BI
-* Power Query
-* DAX
-* Microsoft Excel
+| Technology           | Application                                     |
+| -------------------- | ----------------------------------------------- |
+| Power BI             | Dashboard development                           |
+| Power Query          | ETL (data extraction, cleaning, transformation) |
+| DAX                  | KPI and measures creation                       |
+| Excel                | Data source                                     |
+
 
 ---
 
