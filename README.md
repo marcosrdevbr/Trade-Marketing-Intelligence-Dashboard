@@ -139,13 +139,10 @@ It simulates sales transactions from a Trade Marketing operation, including prod
 ## 📁 Repository Structure
 
 Trade Marketing Intelligence Dashboard
-
+│
 ├── Dashboard
-
 ├── Data
-
 ├── Images
-
 └── README.md
 
 ---
@@ -216,6 +213,14 @@ As I continue expanding my skills in Data Analytics, future versions of this pro
 Trade Marketing | Business Intelligence | Data Analytics
 
 * GitHub: https://github.com/marcosrdevbr
-* LinkedIn:https://www.linkedin.com/in/marcos-rogerio-017923302/
+* LinkedIn: https://www.linkedin.com/in/marcos-rogerio-017923302/
 
 Feel free to connect or share feedback about this project.
+
+---
+
+## ⭐ If you found this project interesting
+
+If you enjoyed this project or found it useful, feel free to connect with me on LinkedIn or explore my other repositories on GitHub.
+
+Thank you for visiting my portfolio!
