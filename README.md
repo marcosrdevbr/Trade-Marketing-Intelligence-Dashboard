@@ -138,11 +138,19 @@ It simulates sales transactions from a Trade Marketing operation, including prod
 
 ## 📁 Repository Structure
 
+
 Trade Marketing Intelligence Dashboard
 │
 ├── Dashboard
+│   └── Dashboard.pbix
+│
 ├── Data
+│
 ├── Images
+│   ├── dashboard-banner.png
+│   ├── Executive_Overview.png
+│   └── Trade_Marketing_Insights.png
+│
 └── README.md
 
 ---
