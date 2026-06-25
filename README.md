@@ -158,6 +158,7 @@ Trade Marketing Intelligence Dashboard
 ## Trade Marketing Insights
 
 ![Trade Marketing Insights](Images/Trade_Marketing_Insights.png)
+
 ---
 
 # 💡 Key Insights
